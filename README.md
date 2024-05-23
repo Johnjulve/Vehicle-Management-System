@@ -18,6 +18,10 @@ By using this code, you agree to utilize it solely for educational purposes, suc
 
 Any use of this code for profit, competitive advantage, or other benefit is strictly prohibited unless permitted by the original licensing terms. Please respect the educational intent and the intellectual property rights of the original creators of this resource.
 
+Main Class or Strutuctre of My project [[Click Here](/VMS.py)]
+
+
 ## Reference:
-- Object-Oriented Programming Principles [[Click here](https://www.geeksforgeeks.org/python-oops-concepts/)]
-- 
+- Object-Oriented Programming Principles [[Click Here](https://www.geeksforgeeks.org/python-oops-concepts/)]
+- Python Function [[Click Here](https://www.geeksforgeeks.org/python-functions/?ref=ml_lbp)]
+
