@@ -1,10 +1,10 @@
-# Vehicle-Management-System
+# Vehicle-Management-System(School Project)
 
   The implementation of this system is in relation to the car world in which helps to demonstrate the structure of Object-Oriented Programming (OOP) using Python programming language. In this document consists of illustration to gain insights into how encapsulation, abstraction, and polymorphism are applied in the designed program using the concept of automobile industry on how the vehicle works using Python.
 
 ## Note 
 
-  This code has been developed and provided with an educational purpose in mind. It is intended to help learners understand various programming concepts, techniques, and methodologies. The code is designed to be a practical tool for learning and is not meant for commercial or other forms of exploitation that provide direct or indirect benefits.
+  This code has been developed and provided with an educational purpose in mind. It is intended to help learners understand various programming concepts and techniques. The code is designed to be a practical tool for learning and is not meant for commercial or other forms of exploitation that provide direct or indirect benefits.
 
 ***Warning: Please note that the code provided here has been sourced from various external resources. Full credit goes to the original authors and sources of this code. If you wish to use this code beyond educational purposes, please ensure you comply with the original licensing terms and provide appropriate attribution to the original authors.***
 
