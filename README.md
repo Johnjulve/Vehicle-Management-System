@@ -6,9 +6,10 @@
 
   This code has been developed and provided with an educational purpose in mind. It is intended to help learners understand various programming concepts, techniques, and methodologies. The code is designed to be a practical tool for learning and is not meant for commercial or other forms of exploitation that provide direct or indirect benefits.
 
-Attribution:
-  Please note that the code provided here has been sourced from various external resources. Full credit goes to the original authors and sources of this code. If you wish to use this code beyond educational purposes, please ensure you comply with the original licensing terms and provide appropriate attribution to the original authors.
+Warning: Please note that the code provided here has been sourced from various external resources. Full credit goes to the original authors and sources of this code. If you wish to use this code beyond educational purposes, please ensure you comply with the original licensing terms and provide appropriate attribution to the original authors.
 
+
+## Usage
 By using this code, you agree to utilize it solely for educational purposes, such as:
 
 - Learning and practicing programming skills.
@@ -19,3 +20,4 @@ Any use of this code for profit, competitive advantage, or other benefit is stri
 
 ## Reference:
 - Object-Oriented Programming Principles [[Click here](https://www.geeksforgeeks.org/python-oops-concepts/)]
+- 
