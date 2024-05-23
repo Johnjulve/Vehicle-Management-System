@@ -18,9 +18,9 @@ By using this code, you agree to utilize it solely for educational purposes, suc
 
 Any use of this code for profit, competitive advantage, or other benefit is strictly prohibited unless permitted by the original licensing terms. Please respect the educational intent and the intellectual property rights of the original creators of this resource.
 
-Main Class or Strutuctre of My project [[Click Here](/VMS.py)]
-Sample Usage of Project [[Click Here](/Main.py)]
-Project Documentation [[Click Here](/Documentation.pdf)]
+- Main Class or Strutuctre of My project [[Click Here](/VMS.py)]
+- Sample Usage of Project [[Click Here](/Main.py)]
+- Project Documentation [[Click Here](/Documentation.pdf)]
 
 
 ## Reference:
