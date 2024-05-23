@@ -18,4 +18,4 @@ By using this code, you agree to utilize it solely for educational purposes, suc
 Any use of this code for profit, competitive advantage, or other benefit is strictly prohibited unless permitted by the original licensing terms. Please respect the educational intent and the intellectual property rights of the original creators of this resource.
 
 ## Reference:
-- Geeks for Geeks ([Click here](https://www.geeksforgeeks.org/python-oops-concepts/))
+- Object-Oriented Programming Principles [[Click here](https://www.geeksforgeeks.org/python-oops-concepts/)]
