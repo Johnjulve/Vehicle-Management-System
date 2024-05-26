@@ -6,7 +6,7 @@
 
   This code has been developed and provided with an educational purpose in mind. It is intended to help learners understand various programming concepts and techniques. The code is designed to be a practical tool for learning and is not meant for commercial or other forms of exploitation that provide direct or indirect benefits.
 
-***Warning: Please note that the code provided here has been sourced from various external resources. Full credit goes to the original authors and sources of this code. If you wish to use this code beyond educational purposes, please ensure you comply with the original licensing terms and provide appropriate attribution to the original authors.***
+***Warning: Please note that the code provided here has been sourced from various external resources. Full credit goes to the original authors and sources of this code.***
 
 
 ## Usage
@@ -27,3 +27,7 @@ Any use of this code for profit, competitive advantage, or other benefit is stri
 - Object-Oriented Programming Principles [[Click Here](https://www.geeksforgeeks.org/python-oops-concepts/)]
 - Python Function [[Click Here](https://www.geeksforgeeks.org/python-functions/?ref=ml_lbp)]
 
+## Creator
+Created by: John Andrei S. Julve | SNSU BSCS(Student from Batch 2022)
+
+***This creation of project was in purpose of completion for Final School Presentation and all credits to all the original authors***
